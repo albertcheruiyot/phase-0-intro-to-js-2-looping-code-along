@@ -24,4 +24,4 @@ function writeCards(names, event) {
     }
   }
 
-  countDown(15);
+  countDown(10);
